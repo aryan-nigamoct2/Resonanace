@@ -60,7 +60,7 @@ body {
     flex-direction: column;
 }
 
-#progressBar {
+#progress-bar {
     width: 80vw;
     margin-top: -2vh;
     cursor: pointer;
